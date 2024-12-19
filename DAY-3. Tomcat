@@ -29,7 +29,7 @@ In this real-world scenario, Apache Tomcat serves as the underlying web server a
 
 ## Commands To Setup:
 
-```shell
+```shell ####*** installing tomact and hosting a webapp in tomcat****
 ##################----INSTALL TOMCAT----##################
 cd /opt
 sudo wget https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65.tar.gz
