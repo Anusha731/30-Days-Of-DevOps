@@ -57,8 +57,8 @@ sudo systemctl status jenkins
 
 ```shell
 sudo apt update -y
-sudo apt install openjdk-11-jre -y
-sudo wget https://updates.jenkins.io/download/war/2.387.3/jenkins.war
+sudo apt install openjdk-17-jre -y
+sudo wget https://updates.jenkins.io/download/war/2.488/jenkins.war
 java -jar jenkins.war  --httpPort=8082
 ```
 ### **--- INSTALL JENKINS ON WINDOWS ---**
