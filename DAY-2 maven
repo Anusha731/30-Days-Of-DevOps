@@ -11,13 +11,18 @@ java based proj = pom file(all depednencies, info) and src(mian code).
 *****
 sudo apt-get update -y
 sudo apt install openjdk-11-jre -y
-sudo apt-get install maven
+sudo apt-get install maven -y
 
 java --version
 mvn --version
 
 
+mvn commands
+compile,package (jar/war file), install (all dependenices), clean
+special one --> mvn clean package =delete target and again creates.
 
+to execute java based app -->
+java -jar target/spring-boot-web.jar
 
 
 
