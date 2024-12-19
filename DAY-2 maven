@@ -5,6 +5,24 @@ Maven is a powerful build automation and dependency management tool used primari
 #### Click Below to watch the video Tutorial
 [![Watch the video](https://img.youtube.com/vi/-KqyFvEJYz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=-KqyFvEJYz0)
 
+TO INSTALL:
+springboot -java-proj = to build this repo
+java based proj = pom file(all depednencies, info) and src(mian code).
+*****
+sudo apt-get update -y
+sudo apt install openjdk-11-jre -y
+sudo apt-get install maven
+
+java --version
+mvn --version
+
+
+
+
+
+
+
+
 ### Real World Scenario
 
 Let's consider the following scenario:
